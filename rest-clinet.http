@@ -1,0 +1,8 @@
+### Index route
+GET http://localhost:3000/
+
+### songs route
+GET http://localhost:3000/songs
+
+### songs route
+GET http://localhost:3000/user
